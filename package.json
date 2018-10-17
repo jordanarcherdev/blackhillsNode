@@ -4,7 +4,7 @@
   "description": "Blackhills tyres website",
   "main": "app.js",
   "scripts": {
-    "start": "node app.js"
+    "start": "npm start"
   },
   "author": "Archer IT Solutions",
   "license": "ISC",
