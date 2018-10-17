@@ -1,0 +1,17 @@
+{
+  "name": "blackhillsnode",
+  "version": "1.0.0",
+  "description": "Blackhills tyres website",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Archer IT Solutions",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "express-handlebars": "^3.0.0",
+    "handlebars-helper-variable": "^0.1.2",
+    "moment": "^2.22.2"
+  }
+}
